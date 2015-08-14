@@ -1,0 +1,58 @@
+{
+  "name": "iso-container-codes",
+  "title": "ISO 6346 Container Type Codes",
+  "license": "ODC-PDDL-1.0",
+  "description": "List of ISO 6346 Container Type Codes",
+  "version": "1.0.0",
+  "sources": [{
+    "name": "Container Container",
+    "web": "http://www.containercontainer.com/ISO6346.aspx"
+  },{
+    "name": "Wikipedia",
+    "web": "https://en.wikipedia.org/wiki/ISO_6346"
+  }],
+  "resources": [
+    {
+      "path": "data/iso-container-codes.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Code",
+            "type": "string",
+            "description": "A 4 digit Alpha Numeric Code uniquely describing the container as defined by ISO 6346",
+            "pattern": "[A-Z0-9]{4}"
+          },
+          {
+            "name": "Description",
+            "type": "string",
+            "description": "Description of the Container",
+            "pattern": "[A-Z]{50}"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "description": "4 Digit ISO 6346 describing the group the codes belong to, more regularly used when sending electronic shipping messages",
+            "pattern": "[A-Z0-9]{4}"
+          }]
+      }
+    },
+    {
+      "path": "data/iso-container-groups.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Code",
+            "type": "string",
+            "description": "A 4 digit Alpha Numeric Code uniquely describing the container/group as defined by ISO 6346",
+            "pattern": "[A-Z0-9]{4}"
+          },
+          {
+            "name": "Description",
+            "type": "string",
+            "description": "Description of the Container",
+            "pattern": "[A-Z]{50}"
+          }]
+      }
+    }
+  ]
+}
