@@ -23,6 +23,17 @@
             "pattern": "[A-Z0-9]{4}"
           },
           {
+            "name": "Length",
+            "type": "number",
+            "description": "Length in feet of the container",
+            "pattern": "[0-9]{2}"
+          },
+          {
+            "name": "Height",
+            "type": "decimal",
+            "description": "Height of container in feet"
+          }
+          {
             "name": "Description",
             "type": "string",
             "description": "Description of the Container",
