@@ -1,0 +1,717 @@
+group,name,length,height,iso_code
+22B0,Bulk,20,8.5,22B0
+22B0,Dry Bulk,20,8.5,22B1
+22B0,Dry Bulk,20,8.5,22B3
+22B0,Dry Bulk,20,8.5,22B4
+22B0,Dry Bulk,20,8.5,22B5
+22B0,Dry Bulk,20,8.5,22B6
+22B0,Dry Bulk,20,8.5,22BK
+22B0,Dry Bulk,20,8,2080
+22B0,Dry Bulk,20,8,20B0
+22B0,Dry Bulk,20,8,20B1
+22B0,Dry Bulk,20,8,20B3
+22B0,Dry Bulk,20,8,20B4
+22B0,Dry Bulk,20,8,20B5
+22B0,Dry Bulk,20,8,20B6
+22B0,Dry Bulk,20,8,20BK
+22B0,Dry Bulk,20,8,20BU
+22B0,Dry Bulk,20,8.5,2280
+22B0,Dry Bulk,20,8.5,2281
+22B0,Air/Surface,20,8.5,2299
+22B0,Dry Bulk,20,8.5,22BU
+22G0,Standard Dry,20,8.5,22G0
+22G0,Standard Dry,20,8.5,22G1
+22G0,Standard Dry,20,8.5,22G2
+22G0,Standard Dry,20,8.5,22G3
+22G0,Standard Dry,20,8.5,22V3
+22G0,Standard Dry,20,8.5,2300
+22G0,Standard Dry,20,8.5,2301
+22G0,Standard Dry,20,8.5,2302
+22G0,Standard Dry,20,8.5,2303
+22G0,Standard Dry,20,8.5,2304
+22G0,HIGH CUBE,20,9.5,2410
+22G0,Standard Dry,20,9,24G0
+22G0,Standard Dry,20,9,24G1
+22G0,Standard Dry,20,9,24G2
+22G0,Standard Dry,20,9,24G3
+22G0,Standard Dry,20,9,24GP
+22G0,Standard Dry,20,8.5,2500
+22G0,Standard Dry High Cube,20,9,25G0
+22G0,Standard Dry,20,4.25,2600
+22G0,Standard Dry,20,9.5,26G0
+22G0,Standard Dry,20,9.5,26G1
+22G0,Standard Dry,20,9.5,26G2
+22G0,Standard Dry,20,9.5,26G3
+22G0,Standard Dry,20,9.5,26GP
+22G0,Standard Dry,20,4.25,28G0
+22G0,Standard Dry,20,4.25,28GP
+22G0,BIN HALF HEIGHT (OPEN TOP),20,4.25,28U1
+22G0,"OPENING(S) AT ONE OR BOTH ENDS, PLUS REMV TOP MEMB",20,8.5,28U2
+22G0,"OPENING(S) AT ONE OR BOTH ENDS, PLUS REMV TOP MEMB",20,8.5,28UT
+22G0,Air/Surface,20,4,2994
+22G0,SLIDER CHASSIS,20,0,2999
+22G0,Standard Dry,30,8,3000
+22G0,DRY CARGO/GENERAL PURPOSE,30,8,30G0
+22G0,Standard Dry,30,8.5,3200
+22G0,DRY CARGO/GENERAL PURPOSE,30,8.5,32G0
+22G0,TRIAXLE CHASSIS,23,0,3399
+22G0,SLIDER CHASSIS,20,0,7999
+22G0,PASSIVE VENTS AT UPPER PART OF CARGO SPACE,24,8.5,B2G1
+22G0,Standard Dry,10,8,1000
+22G0,DRY CARGO/GENERAL PURPOSE,10,8,10G0
+22G0,Standard Dry,10,8.5,1200
+22G0,DRY CARGO/GENERAL PURPOSE,10,8.5,12G0
+22G0,Standard Dry,20,8,2000
+22G0,Standard Dry,20,8,2001
+22G0,Standard Dry,20,8,2002
+22G0,Standard Dry,20,8,2003
+22G0,Standard Dry,20,8,2004
+22G0,Livestock Carrier,20,8,2025
+22G0,Standard Dry,20,8,20G0
+22G0,Standard Dry,20,8,20G1
+22G0,Standard Dry,20,8,20G2
+22G0,Standard Dry,20,8,20G3
+22G0,Standard Dry,20,8,20GP
+22G0,Standard Dry,20,8,2101
+22G0,Standard Dry,20,8,2102
+22G0,Standard Dry,20,8,2103
+22G0,Standard Dry,20,8,2104
+22G0,Livestock Carrier,20,8,2125
+22G0,Standard Dry,20,8.5,2200
+22G0,Standard Dry,20,8.5,2201
+22G0,Standard Dry,20,8.5,2202
+22G0,Standard Dry,20,8.5,2204
+22G0,Standard Dry,20,8.5,2205
+22G0,Standard Dry,20,8.5,2210
+22G0,Standard Dry,20,8.5,2213
+22G0,Livestock Carrier,20,8.5,2225
+22G0,Standard Dry,20,8.5,22GP
+22G0,General Purpose (Hanging Garments),20,8.5,2212
+22G0,High Cube,20,9.6,25GP
+22H0,Insulated (Conair),20,8.5,22H0
+22H0,Thermal Refrigerated/Heated,20,8.5,22H1
+22H0,Thermal Refrigerated/Heated,20,8.5,22H2
+22H0,Thermal Insulated,20,8.5,22H5
+22H0,Thermal Insulated,20,8.5,22H6
+22H0,Thermal Refrigerated/Heated,20,8.5,22HI
+22H0,Thermal Insulated,20,9,24H5
+22H0,Thermal Insulated,20,9,24H6
+22H0,Thermal Insulated,20,8,2020
+22H0,Thermal Refrigerated/Heated,20,8,20H0
+22H0,Thermal Refrigerated/Heated,20,8,20H1
+22H0,Thermal Refrigerated/Heated,20,8,20H2
+22H0,Thermal Insulated,20,8,20H5
+22H0,Thermal Insulated,20,8,20H6
+22H0,Thermal Refrigerated/Heated,20,8,20HI
+22H0,Thermal Refrigerated/Heated,20,8,20HR
+22H0,Thermal Insulated,20,8.5,2220
+22H0,Insulated,20,8.5,2224
+22H0,Thermal Refrigerated/Heated,20,8.5,22HR
+22P1,Flat Rack,20,8.5,22P1
+22P1,Platform,20,8.5,22P2
+22P1,Platform,20,8.5,22P4
+22P1,Platform,20,8.5,22P5
+22P1,PLATFORM FIXED,20,8.5,22P7
+22P1,Platform,20,8.5,22P8
+22P1,Platform,20,8.5,22P9
+22P1,Platform,20,8.5,22PL
+22P1,Platform,20,8.5,22PS
+22P1,Platform,20,8.5,2361
+22P1,Platform,20,8.5,2362
+22P1,Platform,20,8.5,2363
+22P1,Platform,20,8.5,2364
+22P1,Platform,20,8.5,2365
+22P1,Platform,20,8.5,2366
+22P1,Platform,20,8.5,2367
+22P1,Open Top,20,4.25,2651
+22P1,Platform,20,4.25,2661
+22P1,Platform,20,4.25,2761
+22P1,Flat,20,8,2063
+22P1,Platform,20,8,2066
+22P1,Platform,20,8,2067
+22P1,Platform,20,8,20P2
+22P1,Platform,20,8,20P4
+22P1,Platform,20,8,20P5
+22P1,Platform,20,8,20PC
+22P1,Platform,20,8,20PF
+22P1,Platform,20,8,20PL
+22P1,Platform,20,8,20PS
+22P1,Flat,20,8,2160
+22P1,Platform,20,8,2161
+22P1,Platform,20,8,2162
+22P1,Platform,20,8,2163
+22P1,Platform,20,8,2164
+22P1,Platform,20,8,2165
+22P1,Platform,20,8,2166
+22P1,Platform,20,8,2167
+22P1,Flat,20,8.5,2260
+22P1,Flat,20,8.5,2261
+22P1,Platform,20,8.5,2262
+22P1,Platform,20,8.5,2265
+22P1,Platform,20,8.5,2266
+22P1,Platform,20,8.5,2267
+22P1,Platform,20,8.5,22PF
+22P1,Platform,20,8.5,22PC
+8888,Uncontainerised,0,0,8888
+22P3,Collapsible Flat Rack,20,8.5,22P3
+22P3,Platform,20,8,20P3
+22P3,Flat,20,8.5,2263
+22P3,Platform,20,8.5,2264
+22R1,Reefer,20,8.5,22R1
+22R1,Thermal Refrigerated/Heated,20,8.5,22R2
+22R1,Thermal Refrigerated/Heated,20,8.5,22R3
+22R1,Thermal Refrigerated/Heated,20,8.5,22R9
+22R1,Thermal Refrigerated/Heated,20,8.5,22RC
+22R1,Thermal Refrigerated,20,8.5,22RE
+22R1,Thermal Refrigerated/Heated,20,8.5,22RS
+22R1,Thermal Refrigerated,20,8.5,2330
+22R1,Thermal Refrigerated,20,8.5,2331
+22R1,Thermal Refrigerated/Heated,20,8.5,2332
+22R1,Thermal Refrigerated/Heated,20,9,2432
+22R1,Thermal Refrigerated/Heated,20,9,24H0
+22R1,Thermal Refrigerated/Heated,20,9,24H1
+22R1,Thermal Refrigerated/Heated,20,9,24H2
+22R1,Thermal Refrigerated/Heated,20,9,24HI
+22R1,Thermal Refrigerated/Heated,20,9,24HR
+22R1,Thermal Refrigerated/Heated,20,9,24R0
+22R1,Thermal Refrigerated/Heated,20,9,24R1
+22R1,Thermal Refrigerated/Heated,20,9,24R2
+22R1,Thermal Refrigerated/Heated,20,9,24R3
+22R1,Thermal Refrigerated,20,9,24RE
+22R1,Thermal Refrigerated/Heated,20,9,24RS
+22R1,Thermal Refrigerated/Heated,20,9,24RT
+22R1,Thermal Refrigerated,20,8,2030
+22R1,Thermal Refrigerated,20,8,2031
+22R1,Thermal Refrigerated/Heated,20,8,2032
+22R1,Thermal Refrigerated,20,8,2040
+22R1,Thermal Refrigerated,20,8,2041
+22R1,Thermal Refrigerated,20,8,2042
+22R1,Thermal Refrigerated,20,8,2043
+22R1,Thermal Refrigerated,20,8,20R0
+22R1,Thermal Refrigerated/Heated,20,8,20R1
+22R1,Thermal Refrigerated/Heated,20,8,20R2
+22R1,Thermal Refrigerated/Heated,20,8,20R3
+22R1,Thermal Refrigerated,20,8,20RE
+22R1,Thermal Refrigerated/Heated,20,8,20RS
+22R1,Thermal Refrigerated/Heated,20,8,20RT
+22R1,Thermal Refrigerated,20,8,2130
+22R1,Thermal Refrigerated,20,8,2131
+22R1,Thermal Refrigerated,20,8,2132
+22R1,Thermal Refrigerated,20,8.5,2230
+22R1,Thermal Refrigerated,20,8.5,2231
+22R1,Thermal Refrigerated/Heated,20,8.5,2232
+22R1,Thermal Refrigerated,20,8.5,2240
+22R1,Thermal Refrigerated,20,8.5,2242
+22R1,Thermal Refrigerated/Heated,20,8.5,22R0
+22R1,Thermal Refrigerated/Heated,20,8.5,22RT
+22R1,"Thermal containers, Heated",20,8.5,2234
+22T0,Tank,20,8.5,22T0
+22T0,Tank,20,8.5,22T1
+22T0,Tank,20,8.5,22T2
+22T0,Tank,20,8.5,22T3
+22T0,Tank,20,8.5,22T4
+22T0,Tank,20,8.5,22T5
+22T0,Tank,20,8.5,22T6
+22T0,Tank,20,8.5,22T7
+22T0,Tank,20,8.5,22T8
+22T0,Tank,20,8.5,22T9
+22T0,Tank,20,8.5,22TD
+22T0,Tank,20,8.5,22TG
+22T0,Tank,20,4.25,2670
+22T0,Tank,20,4.25,2671
+22T0,HALF HEIGHT THERMAL TANK,20,0,2870
+22T0,Tank,20,8,2070
+22T0,Tank,20,8,2071
+22T0,Tank,20,8,2072
+22T0,Tank,20,8,2073
+22T0,Tank,20,8,2074
+22T0,Tank,20,8,2075
+22T0,Tank,20,8,2076
+22T0,Tank,20,8,2077
+22T0,Tank,20,8,2078
+22T0,Tank,20,8,2079
+22T0,Tank,20,8,20T0
+22T0,Tank,20,8,20T1
+22T0,Tank,20,8,20T2
+22T0,Tank,20,8,20T3
+22T0,Tank,20,8,20T4
+22T0,Tank,20,8,20T5
+22T0,Tank,20,8,20T6
+22T0,Tank,20,8,20T7
+22T0,Tank,20,8,20T8
+22T0,Tank,20,8,20T9
+22T0,Tank,20,8,20TD
+22T0,Tank,20,8,20TG
+22T0,Tank,20,8,20TN
+22T0,Tank,20,8.5,2270
+22T0,Tank,20,8.5,2271
+22T0,Tank,20,8.5,2272
+22T0,Tank,20,8.5,2273
+22T0,Tank,20,8.5,2274
+22T0,Tank,20,8.5,2275
+22T0,Tank,20,8.5,2276
+22T0,Tank,20,8.5,2277
+22T0,Tank,20,8.5,2278
+22T0,Tank,20,8.5,2279
+22T0,Tank,20,8.5,22TN
+22U1,Open Top,20,8.5,22U1
+22U1,Open Top,20,8.5,22U2
+22U1,Open Top,20,8.5,22U3
+22U1,Open Top,20,8.5,22U4
+22U1,Open Top,20,8.5,22U5
+22U1,Standard Dry,20,8.5,22U6
+22U1,Open Top,0,4.25,2650
+22U1,Open Top,20,4.25,2750
+22U1,Tank,20,4.25,2770
+22U1,Tank,20,4.25,2771
+22U1,HALF OPEN TOP,20,0,2851
+22U1,Open Top,20,8,2050
+22U1,Open Top,20,8,2051
+22U1,Open Top,20,8,2052
+22U1,Open Top,20,8,2053
+22U1,Open Top,20,8,20U0
+22U1,Open Top,20,8,20U1
+22U1,Open Top,20,8,20U2
+22U1,Open Top,20,8,20U3
+22U1,Open Top,20,8,20U4
+22U1,Open Top,20,8,20U5
+22U1,Open Top,20,8,20UT
+22U1,Open Top,20,8,2150
+22U1,Standard Dry,20,8.5,2203
+22U1,Open Top,20,8.5,2250
+22U1,Open Top,20,8.5,2251
+22U1,Open Top,20,8.5,2252
+22U1,Open Top,20,8.5,2253
+22U1,Open Top,20,8.5,2259
+22U1,Open Top,20,8.5,22U0
+22U1,Open Top,20,8.5,22UT
+22UP,Hard Top,20,8.5,22UP
+22VH,Closed Vented,20,8.5,22V0
+22VH,Closed Vented,20,8.5,22V2
+22VH,Closed Vented,20,8.5,22V4
+22VH,Ventilated,20,8.5,22VH
+22VH,Vented,20,4.75,28VH
+22VH,Vented,20,4.75,28VO
+22VH,Closed Vented,20,8,2010
+22VH,Closed Vented,20,8,2011
+22VH,Closed Ventilated,20,8,2013
+22VH,Closed Ventilated,20,8,2015
+22VH,Closed Ventilated,20,8,2017
+22VH,Closed Vented,20,8,20V0
+22VH,Closed Vented,20,8,20V2
+22VH,Closed Vented,20,8,20V4
+22VH,Closed Vented,20,8,20VH
+22VH,Closed Ventilated,20,8,2113
+22VH,Closed Ventilated,20,8,2117
+22VH,Closed Vented,20,8.5,2211
+22VH,Closed Ventilated,20,8.5,2215
+22VH,Closed Ventilated,20,8.5,2216
+22VH,Closed Ventilated,20,8.5,2217
+29P0,Platform,20,1,29P0
+29P0,PLATFORM (CONTAINER),20,4,29P1
+29P0,Platform,20,8,2060
+29P0,Platform,20,8,2061
+29P0,Platform,20,8,2062
+29P0,Platform,20,8,2064
+29P0,Platform,20,8,2065
+29P0,Platform,20,8,20P0
+29P0,Platform,20,8,20P1
+29P0,Platform,20,8.5,22P0
+29P0,Platform,20,4.25,2760
+29P0,Platform,20,4,2960
+29P0,Platform,20,4,2969
+29P0,PLATFORM (CONTAINER),20,1,29PL
+42G0,Standard Dry,40,8.5,42G0
+42G0,Standard Dry,40,8.5,42G1
+42G0,Standard Dry,40,8.5,42G2
+42G0,Standard Dry,40,8.5,42G3
+42G0,Standard Dry,40,8.5,4300
+42G0,Standard Dry,40,8.5,4301
+42G0,Standard Dry,40,8.5,4302
+42G0,Standard Dry,40,8.5,4303
+42G0,Standard Dry,40,8.5,4304
+42G0,Standard Dry,40,8.5,4305
+42G0,Standard Dry,40,8.5,4310
+42G0,Closed Vented,40,8.5,4311
+42G0,General Purpose (Hanging Garments),40,8.5,4312
+42G0,VENTILATED,40,0,4313
+42G0,Closed Ventilated,40,8.5,4315
+42G0,Livestock Carrier,40,8.5,4325
+42G0,Automobile Carrier,40,8.5,4326
+42G0,Dry Bulk,40,8.5,4380
+42G0,Standard Dry,40,9,44G0
+42G0,Standard Dry,40,9,44G1
+42G0,Standard Dry,40,9,44G2
+42G0,Standard Dry,40,9,44G3
+42G0,Standard Dry,40,9,44GP
+42G0,Air/Surface,40,8.5,4595
+42G0,Air/Surface,40,9,4599
+42G0,HALF HIGH,40,0,4651
+42G0,Air/Surface,40,4.25,4699
+42G0,Dry Bulk,40,4.25,4886
+42G0,HALF HEIGHT (OPEN TOP),40,4.25,48UI
+42G0,Air/Surface,40,8.5,4994
+42G0,GOOSENECK CHASSIS,40,0,4999
+42G0,OPENING(S) AT ONE OR BOTH ENDS,40,8.5,4CG0
+42G0,OPENING(S) AT ONE OR BOTH ENDS,40,8.5,4CGP
+42G0,Standard Dry,35,8.5,8500
+42G0,Air/Surface,35,8.5,8599
+42G0,Air/Surface,40,4,9995
+42G0,Air/Surface,40,4,9998
+42G0,Air/Surface,40,4,9999
+42G0,OPENING(S) AT ONE END OR BOTH ENDS,48,8.5,M2G0
+42G0,OPENING(S) AT ONE END OR BOTH ENDS,53,8.5,P2G0
+42G0,Standard Dry,40,8,4000
+42G0,Standard Dry,40,8,4001
+42G0,Standard Dry,40,8,4002
+42G0,Standard Dry,40,8,4003
+42G0,Standard Dry,40,8,4004
+42G0,Thermal Insulated,40,8,4020
+42G0,Livestock Carrier,40,8,4025
+42G0,Automobile Carrier,40,8,4026
+42G0,Dry Bulk,40,8,4080
+42G0,Air/Surface,40,8,4096
+42G0,Dry Bulk,40,8,40B0
+42G0,Dry Bulk,40,8,40B1
+42G0,Dry Bulk,40,8,40B3
+42G0,Dry Bulk,40,8,40B4
+42G0,Dry Bulk,40,8,40B5
+42G0,Dry Bulk,40,8,40B6
+42G0,Dry Bulk,40,8,40BK
+42G0,Dry Bulk,40,8,40BU
+42G0,Standard Dry,40,8,40G0
+42G0,Standard Dry,40,8,40G1
+42G0,Standard Dry,40,8,40G2
+42G0,Standard Dry,40,8,40G3
+42G0,Standard Dry,40,8,40GP
+42G0,Standard Dry,40,8,4101
+42G0,Standard Dry,40,8,4102
+42G0,Standard Dry,40,8,4103
+42G0,Standard Dry,40,8,4104
+42G0,Automobile Carrier,40,8,4126
+42G0,Standard Dry,40,8.5,4200
+42G0,Standard Dry,40,8.5,4201
+42G0,Standard Dry,40,8.5,4202
+42G0,Standard Dry,40,8.5,4203
+42G0,Standard Dry,40,8.5,4204
+42G0,Livestock Carrier,40,8.5,4225
+42G0,Automobile Carrier,40,8.5,4226
+42G0,Dry Bulk,40,8.5,4280
+42G0,Dry Bulk,40,8.5,42B0
+42G0,Dry Bulk,40,8.5,42B1
+42G0,Dry Bulk,40,8.5,42B3
+42G0,Dry Bulk,40,8.5,42B4
+42G0,Dry Bulk,40,8.5,42B5
+42G0,Dry Bulk,40,8.5,42B6
+42G0,Dry Bulk,40,8.5,42BK
+42G0,Dry Bulk,40,8.5,42BU
+42G0,Standard Dry,40,8.5,42GP
+42G0,General Purose (Hanging Garments),40,8.5,42G4
+42G0,PASSIVE VENTS AT UPPER PART OF CARGO SPACE,40,8.5,4CG1
+42H0,Thermal Insulated,40,8.5,42H5
+42H0,Thermal Insulated,40,8.5,42H6
+42H0,Thermal Insulated,40,9,44H5
+42H0,Thermal Insulated,40,9,44H6
+42H0,Thermal Insulated,45,9.5,45H5
+42H0,Thermal Insulated,45,9.5,45H6
+42H0,Thermal Insulated,45,8.5,L2H5
+42H0,Thermal Insulated,45,8.5,L2H6
+42H0,Thermal Insulated,45,9.5,L5H5
+42H0,Thermal Insulated,45,9.5,L5H6
+42H0,Insulated (Conair),40,8.5,42H0
+42H0,Thermal Refrigerated/Heated,40,8.5,42HI
+42P1,Flat Rack,40,8.5,42P1
+42P1,Platform,40,8.5,42P2
+42P1,Platform,40,8.5,42P4
+42P1,Platform,40,8.5,42P5
+42P1,Platform,40,8.5,42P8
+42P1,Platform,40,8.5,42P9
+42P1,Platform,40,8.5,42PL
+42P1,Platform,40,8.5,42PS
+42P1,Flat,40,8.5,4361
+42P1,Platform,40,8.5,4362
+42P1,Platform,40,8.5,4364
+42P1,Platform,40,8.5,4365
+42P1,Platform,40,8.5,4366
+42P1,Platform,40,8.5,4367
+42P1,Platform,40,8.5,4560
+42P1,Platform,40,8.5,4561
+42P1,Platform,40,4.25,4661
+42P1,Platform,40,4.25,4761
+42P1,Platform,40,4.25,48P1
+42P1,Platform,40,4.25,48P5
+42P1,Platform,40,4.25,48PC
+42P1,Platform,40,4.25,48PF
+42P1,Platform,40,4.25,48PL
+42P1,Platform,40,8,4061
+42P1,Platform,40,8,4062
+42P1,Platform,40,8,4063
+42P1,Platform,40,8,4064
+42P1,Platform,40,8,4065
+42P1,Platform,40,8,4066
+42P1,Platform,40,8,4067
+42P1,Platform,40,8,40P1
+42P1,Platform,40,8,40P2
+42P1,Platform,40,8,40P4
+42P1,Platform,40,8,40P5
+42P1,Platform,40,8,40PC
+42P1,Platform,40,8,40PF
+42P1,Platform,40,8,40PL
+42P1,Platform,40,8,40PS
+42P1,Platform,40,8,4161
+42P1,Platform,40,8,4162
+42P1,Platform,40,8,4163
+42P1,Platform,40,8,4164
+42P1,Platform,40,8,4165
+42P1,Platform,40,8,4166
+42P1,Platform,40,8,4167
+42P1,Platform,40,8.5,4261
+42P1,Platform,40,8.5,4262
+42P1,Flat,40,8.5,4263
+42P1,Platform,40,8.5,4264
+42P1,Platform,40,8.5,4265
+42P1,Platform,40,8.5,4266
+42P1,Platform,40,8.5,4267
+42P1,Platform,40,8.5,42PC
+42P1,Platform,40,8.5,42PF
+42P3,Collapsible Flat Rack,40,8.5,42P3
+42P3,Flat,40,8.5,4363
+42P3,Platform,40,4.25,48P3
+42P3,Platform,40,8,40P3
+42R1,Reefer,40,8.5,42R1
+42R1,Thermal Refrigerated/Heated,40,8.5,42R2
+42R1,Thermal Refrigerated/Heated,40,8.5,42R3
+42R1,Thermal Refrigerated/Heated,40,8.5,42R9
+42R1,Thermal Refrigerated/Heated,40,8.5,42RC
+42R1,Thermal Refrigerated,40,8.5,42RE
+42R1,Thermal Refrigerated/Heated,40,8.5,42RS
+42R1,Thermal Insulated,40,8.5,4320
+42R1,Thermal Refrigerated,40,8.5,4330
+42R1,Thermal Refrigerated/Heated,40,8.5,4332
+42R1,Thermal Refrigerated/Heated,40,8.5,4333
+42R1,Thermal Refrigerated,40,8.5,4340
+42R1,Thermal Refrigerated/Heated,40,9,44H0
+42R1,Thermal Refrigerated/Heated,40,9,44H1
+42R1,Thermal Refrigerated/Heated,40,9,44H2
+42R1,Thermal Refrigerated/Heated,40,9,44HI
+42R1,Thermal Refrigerated/Heated,40,9,44HR
+42R1,Thermal Refrigerated/Heated,40,9,44R0
+42R1,Thermal Refrigerated/Heated,40,9,44R1
+42R1,Thermal Refrigerated/Heated,40,9,44R2
+42R1,Thermal Refrigerated/Heated,40,9,44R3
+42R1,Thermal Refrigerated,40,9,44RE
+42R1,Thermal Refrigerated/Heated,40,9,44RS
+42R1,Thermal Refrigerated/Heated,40,9,44RT
+42R1,Thermal Insulated,35,8.5,8520
+42R1,Thermal Refrigerated/Heated,35,8.5,8532
+42R1,Thermal Refrigerated,40,8,4030
+42R1,Thermal Refrigerated,40,8,4031
+42R1,Thermal Refrigerated/Heated,40,8,4032
+42R1,Thermal Refrigerated,40,8,4040
+42R1,Thermal Refrigerated/Heated,40,8,40H0
+42R1,Thermal Refrigerated/Heated,40,8,40H1
+42R1,Thermal Refrigerated/Heated,40,8,40H2
+42R1,Thermal Insulated,40,8,40H5
+42R1,Thermal Insulated,40,8,40H6
+42R1,Thermal Refrigerated/Heated,40,8,40HI
+42R1,Thermal Refrigerated/Heated,40,8,40HR
+42R1,Thermal Refrigerated/Heated,40,8,40R0
+42R1,Thermal Refrigerated/Heated,40,8,40R1
+42R1,Thermal Refrigerated/Heated,40,8,40R2
+42R1,Thermal Refrigerated/Heated,40,8,40R3
+42R1,Thermal Refrigerated,40,8,40RE
+42R1,Thermal Refrigerated/Heated,40,8,40RS
+42R1,Thermal Refrigerated/Heated,40,8,40RT
+42R1,Thermal Refrigerated,40,8,4130
+42R1,Thermal Refrigerated,40,8,4131
+42R1,Thermal Refrigerated/Heated,40,8,4132
+42R1,Insulated,40,8.5,4224
+42R1,Thermal Refrigerated,40,8.5,4230
+42R1,Thermal Refrigerated,40,8.5,4231
+42R1,Thermal Refrigerated/Heated,40,8.5,4232
+42R1,Thermal Refrigerated,40,8.5,4240
+42R1,Thermal Refrigerated,40,8.5,4243
+42R1,Thermal Refrigerated/Heated,40,8.5,42H1
+42R1,Thermal Refrigerated/Heated,40,8.5,42H2
+42R1,Thermal Refrigerated/Heated,40,8.5,42HR
+42R1,Thermal Refrigerated/Heated,40,8.5,42R0
+42R1,Thermal Refrigerated/Heated,40,9,4432
+42R1,Thermal Refrigerated/Heated,40,8.5,42RT
+42T0,Tank,40,8.5,42T0
+42T0,Tank,40,8.5,42T1
+42T0,Tank,40,8.5,42T2
+42T0,Tank,40,8.5,42T3
+42T0,Tank,40,8.5,42T4
+42T0,Tank,40,8.5,42T5
+42T0,Tank,40,8.5,42T6
+42T0,Tank,40,8.5,42T7
+42T0,Tank,40,8.5,42T8
+42T0,Tank,40,8.5,42T9
+42T0,Tank,40,8.5,42TD
+42T0,Tank,40,8.5,42TG
+42T0,Tank,40,8.5,4370
+42T0,Tank,35,4.25,8770
+42T0,Tank,40,8,4070
+42T0,Tank,40,8,4071
+42T0,Tank,40,8,40T0
+42T0,Tank,40,8,40T1
+42T0,Tank,40,8,40T2
+42T0,Tank,40,8,40T3
+42T0,Tank,40,8,40T4
+42T0,Tank,40,8,40T5
+42T0,Tank,40,8,40T6
+42T0,Tank,40,8,40T7
+42T0,Tank,40,8,40T8
+42T0,Tank,40,8,40T9
+42T0,Tank,40,8,40TD
+42T0,Tank,40,8,40TG
+42T0,Tank,40,8,40TN
+42T0,Tank,40,8,4170
+42T0,Tank,40,8.5,4270
+42T0,Tank,40,8.5,4271
+42T0,Tank,40,8.5,42TN
+42U1,Open Top,40,8.5,42U1
+42U1,Open Top,40,8.5,42U2
+42U1,Open Top,40,8.5,42U3
+42U1,Open Top,40,8.5,42U4
+42U1,Open Top,40,8.5,42U5
+42U1,Standard Dry,40,8.5,42U6
+42U1,Open Top,40,8.5,4350
+42U1,Open Top,40,8.5,4351
+42U1,Open Top,40,4.25,4650
+42U1,Open Top,40,4.25,4750
+42U1,Open Top,40,4.25,4751
+42U1,Open top,40,4.25,48U0
+42U1,Open top,40,4.25,48UT
+42U1,Open top,35,8.5,8550
+42U1,Open Top,40,8,4050
+42U1,Open Top,40,8,4051
+42U1,Open Top,40,8,4052
+42U1,Open Top,40,8,4053
+42U1,Open Top,40,8,40U0
+42U1,Open Top,40,8,40U1
+42U1,Open Top,40,8,40U2
+42U1,Open Top,40,8,40U3
+42U1,Open Top,40,8,40U4
+42U1,Open Top,40,8,40U5
+42U1,Open Top,40,8,40UT
+42U1,Open Top,40,8.5,4250
+42U1,Open Top,40,8.5,4251
+42U1,Open Top,40,8.5,4252
+42U1,Open Top,40,8.5,4253
+42U1,Open Top,40,8.5,42P6
+42U1,Open Top,40,8.5,42U0
+42U1,Open Top,40,8.5,42UT
+42U1,OPEN TOP HIGHCUBE,40,9.5,4551
+42UP,Hard Top,40,8.5,42UP
+42VH,Closed Vented,40,8.5,42V0
+42VH,Closed Vented,40,8.5,42V2
+42VH,Closed Vented,40,8.5,42V4
+42VH,Ventilated,40,8.5,42VH
+42VH,Closed Vented,40,8,4010
+42VH,Closed Vented,40,8,4011
+42VH,Closed Ventilated,40,8,4015
+42VH,Closed Vented,40,8,40V0
+42VH,Closed Vented,40,8,40V2
+42VH,Closed Vented,40,8,40V4
+42VH,Closed Vented,40,8,40VH
+42VH,Closed Vented,40,8.5,4210
+42VH,Closed Vented,40,8.5,4211
+42VH,Closed Ventilated,40,8.5,4215
+45G0,High Cube,40,9.5,45G0
+45G0,High Cube,40,9.5,45G1
+45G0,Standard Dry,40,9.5,45G2
+45G0,Standard Dry,40,9.5,45G3
+45G0,Unrecognized container type,0,0,45G4
+45G0,Standard Dry,45,8.5,9200
+45G0,Standard Dry,45,9.5,9400
+45G0,Standard Dry,40,9,4400
+45G0,HIGH CUBE,40,9.5,4410
+45G0,Thermal Insulated,40,9,4420
+45G0,Automobile Carrier,40,9,4426
+45G0,Standard Dry,40,8.5,4500
+45G0,Standard Dry,40,8.5,4505
+45G0,Standard Dry,40,9.5,4510
+45G0,Standard Dry,40,9.5,4511
+45G0,HIGH CUBE,40,9.5,4514
+45G0,Standard Dry,40,9.5,45GP
+45R1,Thermal Refrigerated/Heated,45,9.5,45R0
+45R1,Reefer High Cube,40,9.5,45R1
+45R1,Thermal Refrigerated/Heated,45,9.5,45R2
+45R1,Thermal Refrigerated/Heated,45,9.5,45R3
+45R1,Thermal Refrigerated,40,9.5,45R9
+45R1,Thermal Refrigerated/Heated,40,9.5,45RC
+45R1,Thermal Refrigerated,45,9.5,45RE
+45R1,Thermal Refrigerated/Heated,45,9.5,45RS
+45R1,Thermal Refrigerated,40,8.5,4530
+45R1,Thermal Refrigerated,40,8.5,4531
+45R1,Thermal Refrigerated/Heated,40,8.5,4532
+45R1,Thermal Refrigerated/Heated,40,8.5,4533
+45R1,Thermal Refrigerated/Heated,45,9.5,45H2
+45R1,Thermal Refrigerated/Heated,45,9.5,45RT
+45R1,HIGHCUBE INTEGRATED REEFER,40,9.5,4534
+45UP,High Cube Hard Top,40,9.5,45U6
+45UP,High Cube Hard Top,40,9.5,45UP
+49P0,Platform,40,4,49P0
+49P0,Platform,40,4,49P1
+49P0,Platform,40,4,49P3
+49P0,Platform,40,4,49P5
+49P0,Platform,40,4,49PC
+49P0,Platform,40,4,49PF
+49P0,Flat,40,8,4060
+49P0,Platform,40,8,40P0
+49P0,Flat,40,8.5,4260
+49P0,Platform,40,8.5,42P0
+49P0,Flat,40,8.5,4360
+49P0,FOLDING COMPLETE END STRUCTURE (PLATFORM),40,9.5,45P3
+49P0,Platform,40,9.5,45P8
+49P0,FOLDING COMPLETE END STRUCTURE (PLATFORM),40,9.5,45PC
+49P0,Platform,40,4.25,48P0
+49P0,Platform,40,4,4960
+49P0,Platform,40,4,49PL
+L5G1,Standard Dry,45,9.5,9500
+L5G1,Standard Dry,45,9.5,9510
+L5G1,45 High Cube,45,9,L5G1
+L5G1,Standard Dry,45,9.5,L5G2
+L5G1,Standard Dry,45,9.5,L5G3
+L5G1,Standard Dry,45,9.5,L5G9
+L5G1,Standard Dry,45,8,L0G9
+L5G1,HL: OPENING(S) AT ONE END OR BOTH ENDS,45,8,L0GP
+L5G1,Standard Dry,45,8.5,L2G0
+L5G1,Standard Dry,45,8.5,L2G1
+L5G1,Standard Dry,45,8.5,L2G2
+L5G1,Standard Dry,45,8.5,L2G3
+L5G1,Standard Dry,45,8.5,L2G9
+L5G1,Standard Dry,45,8.5,L2GP
+L5G1,Standard Dry,45,9,L5G0
+L5G1,Standard Dry,45,9.5,L5GP
+L5R1,45 Reefer High Cube,45,9.5,L5R1
+L5R1,Thermal Refrigerated/Heated,45,9.5,L5R2
+L5R1,Thermal Refrigerated/Heated,45,9.5,L5R3
+L5R1,Thermal Refrigerated,45,9.5,L5RE
+L5R1,Thermal Refrigerated/Heated,45,9.5,L5RS
+L5R1,Thermal Refrigerated/Heated,45,9.5,45H0
+L5R1,Thermal Refrigerated/Heated,45,9.5,45H1
+L5R1,Thermal Refrigerated/Heated,45,9.5,45HI
+L5R1,Thermal Refrigerated/Heated,45,9.5,45HR
+L5R1,Thermal Refrigerated/Heated,45,9.5,9532
+L5R1,Thermal Refrigerated/Heated,45,8.5,L2H0
+L5R1,Thermal Refrigerated/Heated,45,8.5,L2H1
+L5R1,Thermal Refrigerated/Heated,45,8.5,L2H2
+L5R1,Thermal Refrigerated/Heated,45,8.5,L2HI
+L5R1,Thermal Refrigerated/Heated,45,8.5,L2HR
+L5R1,Thermal Refrigerated,45,8.5,L2R0
+L5R1,Thermal Refrigerated/Heated,45,8.5,L2R1
+L5R1,Thermal Refrigerated/Heated,45,8.5,L2R2
+L5R1,Thermal Refrigerated/Heated,45,8.5,L2R3
+L5R1,Thermal Refrigerated,45,8.5,L2RE
+L5R1,Thermal Refrigerated/Heated,45,8.5,L2RS
+L5R1,Thermal Refrigerated/Heated,45,8.5,L2RT
+L5R1,Thermal Refrigerated/Heated,45,9.5,L5H0
+L5R1,Thermal Refrigerated/Heated,45,9.5,L5H1
+L5R1,Thermal Refrigerated/Heated,45,9.5,L5H2
+L5R1,Thermal Refrigerated/Heated,45,9.5,L5HI
+L5R1,Thermal Refrigerated/Heated,45,9.5,L5HR
+L5R1,Thermal Refrigerated,45,9.5,L5R0
+L5R1,Thermal Refrigerated/Heated,45,9.5,L5RT
+12TR,Flatbed,42,8,12TR
