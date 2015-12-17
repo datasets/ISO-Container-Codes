@@ -23,6 +23,12 @@
             "pattern": "[A-Z0-9]{4}"
           },
           {
+            "name": "Description",
+            "type": "string",
+            "description": "Description of the Container Type",
+            "pattern": "[A-Z]{50}"
+          },
+          {
             "name": "Length",
             "type": "number",
             "description": "Length in feet of the container",
@@ -32,12 +38,6 @@
             "name": "Height",
             "type": "decimal",
             "description": "Height of container in feet"
-          }
-          {
-            "name": "Description",
-            "type": "string",
-            "description": "Description of the Container",
-            "pattern": "[A-Z]{50}"
           },
           {
             "name": "Group",
