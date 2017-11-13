@@ -4,16 +4,22 @@
   "license": "ODC-PDDL-1.0",
   "description": "List of ISO 6346 Container Type Codes",
   "version": "1.0.0",
-  "sources": [{
-    "name": "Container Container",
-    "web": "http://www.containercontainer.com/ISO6346.aspx"
-  },{
-    "name": "Wikipedia",
-    "web": "https://en.wikipedia.org/wiki/ISO_6346"
-  }],
+  "sources": [
+    {
+      "name": "Container Container",
+      "path": "http://www.containercontainer.com/ISO6346.aspx",
+      "title": "Container Container"
+    },
+    {
+      "name": "Wikipedia",
+      "path": "https://en.wikipedia.org/wiki/ISO_6346",
+      "title": "Wikipediad"
+    }
+  ],
   "resources": [
     {
       "path": "data/iso-container-codes.csv",
+      "name": "iso-container-codes",
       "schema": {
         "fields": [
           {
@@ -49,6 +55,7 @@
     },
     {
       "path": "data/iso-container-groups.csv",
+      "name": "iso-container-groups",
       "schema": {
         "fields": [
           {
