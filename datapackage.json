@@ -1,7 +1,13 @@
 {
   "name": "iso-container-codes",
   "title": "ISO 6346 Container Type Codes",
-  "license": "ODC-PDDL-1.0",
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+    }
+  ],
   "description": "List of ISO 6346 Container Type Codes",
   "version": "1.0.0",
   "sources": [
