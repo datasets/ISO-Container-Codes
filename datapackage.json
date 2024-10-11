@@ -56,7 +56,8 @@
             "type": "string",
             "description": "4 Digit ISO 6346 describing the group the codes belong to, more regularly used when sending electronic shipping messages",
             "pattern": "[A-Z0-9]{4}"
-          }]
+          }
+        ]
       }
     },
     {
@@ -75,8 +76,10 @@
             "type": "string",
             "description": "Description of the Container",
             "pattern": "[A-Z]{50}"
-          }]
+          }
+        ]
       }
     }
-  ]
+  ],
+  "collection": "reference-data"
 }
