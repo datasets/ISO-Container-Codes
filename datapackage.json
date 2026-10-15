@@ -19,19 +19,21 @@
     {
       "name": "Wikipedia",
       "path": "https://en.wikipedia.org/wiki/ISO_6346",
-      "title": "Wikipediad"
+      "title": "Wikipedia"
     }
   ],
   "resources": [
     {
       "path": "data/iso-container-codes.csv",
       "name": "iso-container-codes",
+      "format": "csv",
+      "mediatype": "text/csv",
       "schema": {
         "fields": [
           {
             "name": "code",
             "type": "string",
-            "description": "A 4 digit Alpha Numeric Code uniquely describing the container as defined by ISO 6346",
+            "description": "A 4 character alphanumeric size and type code as defined by ISO 6346. Not unique: 42HR appears twice (in the second row its group is 42RT).",
             "pattern": "[A-Z0-9]{4}"
           },
           {
@@ -43,13 +45,13 @@
           {
             "name": "length",
             "type": "number",
-            "description": "External length in feet of the container",
+            "description": "External length in feet of the container. 0 means no length is given (e.g. 8888 Uncontainerised). Some rows disagree with the code (see README).",
             "pattern": "[0-9]{2}"
           },
           {
             "name": "height",
             "type": "number",
-            "description": "External height of container in feet"
+            "description": "External height of container in feet (e.g. 8.5, 9.5). 0 means no height is given."
           },
           {
             "name": "group",
@@ -63,12 +65,14 @@
     {
       "path": "data/iso-container-groups.csv",
       "name": "iso-container-groups",
+      "format": "csv",
+      "mediatype": "text/csv",
       "schema": {
         "fields": [
           {
             "name": "code",
             "type": "string",
-            "description": "A 4 digit Alpha Numeric Code uniquely describing the container/group as defined by ISO 6346",
+            "description": "A 4 character alphanumeric group code as defined by ISO 6346. Unique in this file.",
             "pattern": "[A-Z0-9]{4}"
           },
           {
@@ -77,6 +81,9 @@
             "description": "Description of the Container",
             "pattern": "[A-Z]{50}"
           }
+        ],
+        "primaryKey": [
+          "code"
         ]
       }
     }
