@@ -4,16 +4,16 @@
   "licenses": [
     {
       "name": "ODC-PDDL-1.0",
-      "path": "http://opendatacommons.org/licenses/pddl/",
-      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+      "path": "https://opendatacommons.org/licenses/pddl/1.0/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0. Applies only to the maintainers' own work. The licence of the data from the sources is not established; see the README."
     }
   ],
-  "description": "List of ISO 6346 Container Type Codes",
+  "description": "ISO 6346 container size and type codes, and the groups they belong to. Compiled by hand; where the rows come from is not recorded.",
   "version": "1.0.0",
   "sources": [
     {
       "name": "Container Container",
-      "path": "http://www.containercontainer.com/ISO6346.aspx",
+      "path": "https://www.containercontainer.com/iso6346/",
       "title": "Container Container"
     },
     {
@@ -56,7 +56,7 @@
           {
             "name": "group",
             "type": "string",
-            "description": "4 Digit ISO 6346 describing the group the codes belong to, more regularly used when sending electronic shipping messages",
+            "description": "4-character group code (see iso-container-groups) describing the group the code belongs to, more regularly used when sending electronic shipping messages",
             "pattern": "[A-Z0-9]{4}"
           }
         ]

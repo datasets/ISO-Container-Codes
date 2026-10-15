@@ -1,0 +1,15 @@
+Attribution for ISO-Container-Codes
+
+Contains information from the ISO 6346 size and type code table published by Container Container (now Parsons Containers) (https://www.containercontainer.com/iso6346/). Licence: unclear (none stated by the source; the page says "All rights reserved").
+
+The same list of codes is published by Wikipedia, "ISO 6346" (https://en.wikipedia.org/wiki/ISO_6346), licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-sa/4.0/). We could not establish whether any rows were taken from it. Licence of this data if they were: CC BY-SA 4.0.
+
+The codes are defined by the standard ISO 6346 (https://www.iso.org/standard/83558.html), with an explanation of the code structure from the Bureau International des Containers (https://www.bic-code.org/size-type-code/). Licence: unclear (ISO says reproduction needs its written permission). We could not establish whether any rows were taken from the standard.
+
+The same list of codes was also published at shippingcontainers24.com (Internet Archive copy: https://web.archive.org/web/20161028170916/http://www.shippingcontainers24.com/general/iso-6346-codes/). Licence: unclear (none found).
+
+Where most of the rows come from is not recorded. The maintainers' Public Domain Dedication and License (PDDL) covers only their own work, not the sources above.
+
+Changes made to the source data: not recorded. The Container Container table has no length or height columns, and the group descriptions here have a length number added at the front.
+
+Not endorsed by, or affiliated with, Container Container, Parsons Containers, Wikipedia, the Wikimedia Foundation, ISO or BIC.
